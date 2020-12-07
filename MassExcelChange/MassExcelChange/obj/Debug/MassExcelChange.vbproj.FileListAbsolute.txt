@@ -1,0 +1,11 @@
+X:\Produzione\PROGRAMMI MATTIA\repos\MassExcelChange\MassExcelChange\bin\Debug\MassExcelChange.exe.config
+X:\Produzione\PROGRAMMI MATTIA\repos\MassExcelChange\MassExcelChange\bin\Debug\MassExcelChange.exe
+X:\Produzione\PROGRAMMI MATTIA\repos\MassExcelChange\MassExcelChange\bin\Debug\MassExcelChange.pdb
+X:\Produzione\PROGRAMMI MATTIA\repos\MassExcelChange\MassExcelChange\bin\Debug\MassExcelChange.xml
+X:\Produzione\PROGRAMMI MATTIA\repos\MassExcelChange\MassExcelChange\obj\Debug\MassExcelChange.vbprojAssemblyReference.cache
+X:\Produzione\PROGRAMMI MATTIA\repos\MassExcelChange\MassExcelChange\obj\Debug\MassExcelChange.Form1.resources
+X:\Produzione\PROGRAMMI MATTIA\repos\MassExcelChange\MassExcelChange\obj\Debug\MassExcelChange.Resources.resources
+X:\Produzione\PROGRAMMI MATTIA\repos\MassExcelChange\MassExcelChange\obj\Debug\MassExcelChange.vbproj.GenerateResource.cache
+X:\Produzione\PROGRAMMI MATTIA\repos\MassExcelChange\MassExcelChange\obj\Debug\MassExcelChange.exe
+X:\Produzione\PROGRAMMI MATTIA\repos\MassExcelChange\MassExcelChange\obj\Debug\MassExcelChange.xml
+X:\Produzione\PROGRAMMI MATTIA\repos\MassExcelChange\MassExcelChange\obj\Debug\MassExcelChange.pdb
